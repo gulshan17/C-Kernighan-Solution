@@ -1,1 +1,0 @@
-# C-Kernighan-Solution
